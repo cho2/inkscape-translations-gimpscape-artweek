@@ -58,7 +58,7 @@ https://inkscape.org/contribute/translations
 
 ### ID Status 
 
-#### [Master](https://inkscape.org/doc/devel/translations-statistics-master.html) (*captured 20200609*)
+#### [Master](https://inkscape.org/doc/devel/translations-statistics-master.html) (*captured 20200626*)
 
 | Content       | Untranslated  | Fuzzy      | Total	   | Last Changed |
 | ------------- |:-------------:| ----------:| -----------:| ------------:|
@@ -76,7 +76,7 @@ https://inkscape.org/contribute/translations
 | Tutorials-Tracing pixel art   | n/a	        | n/a		 | n/a		   | n/a		  |
 | Website     | n/a           | n/a		 | n/a		   | n/a		  |
 
-#### [1.0.x](https://inkscape.org/doc/devel/translations-statistics100.html) (*captured 20200609*)
+#### [1.0.x](https://inkscape.org/doc/devel/translations-statistics100.html) (*captured 20200626*)
 
 | Content       | Untranslated  | Fuzzy      | Total	   | Last Changed |
 | ------------- |:-------------:| ----------:| -----------:| ------------:|
